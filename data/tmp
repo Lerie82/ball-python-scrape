@@ -1,0 +1,73 @@
+
+
+<div class="card-deck-wrapper">
+    <div class="card-deck row">
+        <div class="card  col-md-6">
+    <div class="box">
+        <div class="head">Male</div>
+        <div class="body">
+                    <img class="card-img-top"
+                 src="http://www.worldofballpythons.com/files/morphs/desert-ghost/001.jpg"
+                 alt="    Desert Ghost">
+                    <p class="card-text">
+                                                                            <a href="http://www.worldofballpythons.com/morphs/desert-ghost/">    Desert Ghost</a>
+                                                </p>
+        </div>
+    </div>
+</div>
+        <div class="card  col-md-6">
+    <div class="box">
+        <div class="head">Female</div>
+        <div class="body">
+                    <img class="card-img-top"
+                 src="http://www.worldofballpythons.com/files/morphs/butter/001.jpg"
+                 alt="    Butter">
+                    <p class="card-text">
+                                                                            <a href="http://www.worldofballpythons.com/morphs/butter/">    Butter</a>
+                                                </p>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="box">
+            <div class="head">Results</div>
+            <div class="body">
+                <table class="table table--results">
+                    <thead>
+                    <tr>
+                        <th>Percent</th>
+                        <th>Fraction</th>
+                        <th>Genes</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                                            <tr>
+                            <td>50 %</td>
+                            <td>1/2</td>
+                            <td>
+                                                                                                                                                                                                                                    Het
+                                                                                Desert Ghost
+                                                                                                </td>
+                        </tr>
+                                            <tr>
+                            <td>50 %</td>
+                            <td>1/2</td>
+                            <td>
+                                                                                                                                            <a href="http://www.worldofballpythons.com/morphs/butter/">    Butter</a>
+                                                                                                                                                                                                                                        Het
+                                                                                Desert Ghost
+                                                                                                </td>
+                        </tr>
+                                        </tbody>
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
